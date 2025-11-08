@@ -1,0 +1,4 @@
+name,email,signup_date,score
+Alice,alice@example.com,2023-07-01,10
+Bob,bob@example.com,2023-08-03,20
+Charlie,charlie@example.com,2023-09-15,15
